@@ -1,0 +1,98 @@
+<Data>
+  <Record>
+    <CO2>2607</CO2>
+    <Date>15:18:45 17-10-2024</Date>
+    <Illuminance>52.48</Illuminance>
+    <Number>26</Number>
+    <Sound_Level>642</Sound_Level>
+    <Temperature>24.9</Temperature>
+  </Record>
+  <Record>
+    <CO2>2607</CO2>
+    <Date>15:18:50 17-10-2024</Date>
+    <Illuminance>54.81</Illuminance>
+    <Number>26</Number>
+    <Sound_Level>642</Sound_Level>
+    <Temperature>24.9</Temperature>
+  </Record>
+  <Record>
+    <CO2>2607</CO2>
+    <Date>15:18:55 17-10-2024</Date>
+    <Illuminance>54.81</Illuminance>
+    <Number>26</Number>
+    <Sound_Level>641</Sound_Level>
+    <Temperature>24.9</Temperature>
+  </Record>
+  <Record>
+    <CO2>2607</CO2>
+    <Date>15:19:00 17-10-2024</Date>
+    <Illuminance>53.66</Illuminance>
+    <Number>26</Number>
+    <Sound_Level>641</Sound_Level>
+    <Temperature>24.9</Temperature>
+  </Record>
+  <Record>
+    <CO2>2609</CO2>
+    <Date>15:19:05 17-10-2024</Date>
+    <Illuminance>53.66</Illuminance>
+    <Number>26</Number>
+    <Sound_Level>641</Sound_Level>
+    <Temperature>24.9</Temperature>
+  </Record>
+  <Record>
+    <CO2>2609</CO2>
+    <Date>15:19:10 17-10-2024</Date>
+    <Illuminance>53.66</Illuminance>
+    <Number>26</Number>
+    <Sound_Level>646</Sound_Level>
+    <Temperature>24.9</Temperature>
+  </Record>
+  <Record>
+    <CO2>2609</CO2>
+    <Date>15:19:15 17-10-2024</Date>
+    <Illuminance>51.84</Illuminance>
+    <Number>26</Number>
+    <Sound_Level>646</Sound_Level>
+    <Temperature>24.9</Temperature>
+  </Record>
+  <Record>
+    <CO2>2610</CO2>
+    <Date>15:19:20 17-10-2024</Date>
+    <Illuminance>51.84</Illuminance>
+    <Number>26</Number>
+    <Sound_Level>646</Sound_Level>
+    <Temperature>24.9</Temperature>
+  </Record>
+  <Record>
+    <CO2>2610</CO2>
+    <Date>15:19:25 17-10-2024</Date>
+    <Illuminance>51.84</Illuminance>
+    <Number>26</Number>
+    <Sound_Level>648</Sound_Level>
+    <Temperature>24.9</Temperature>
+  </Record>
+  <Record>
+    <CO2>2610</CO2>
+    <Date>15:19:30 17-10-2024</Date>
+    <Illuminance>49.02</Illuminance>
+    <Number>26</Number>
+    <Sound_Level>648</Sound_Level>
+    <Temperature>24.9</Temperature>
+  </Record>
+  <Record>
+    <CO2>2610</CO2>
+    <Date>15:19:35 17-10-2024</Date>
+    <Illuminance>49.02</Illuminance>
+    <Number>26</Number>
+    <Sound_Level>651</Sound_Level>
+    <Temperature>24.9</Temperature>
+  </Record>
+  <Record>
+    <CO2>2610</CO2>
+    <Date>15:19:40 17-10-2024</Date>
+    <Illuminance>58.6</Illuminance>
+    <Number>26</Number>
+    <Sound_Level>651</Sound_Level>
+    <Temperature>24.9</Temperature>
+  </Record>
+</Data>

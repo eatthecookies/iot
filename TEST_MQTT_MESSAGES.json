@@ -1,0 +1,98 @@
+[
+  {
+    "CO2": "2607",
+    "Sound Level": "642",
+    "Illuminance": "52.48",
+    "Temperature": "24.9",
+    "Date": "15:18:45 17-10-2024",
+    "Number": 26
+  },
+  {
+    "CO2": "2607",
+    "Sound Level": "642",
+    "Illuminance": "54.81",
+    "Temperature": "24.9",
+    "Date": "15:18:50 17-10-2024",
+    "Number": 26
+  },
+  {
+    "CO2": "2607",
+    "Sound Level": "641",
+    "Illuminance": "54.81",
+    "Temperature": "24.9",
+    "Date": "15:18:55 17-10-2024",
+    "Number": 26
+  },
+  {
+    "CO2": "2607",
+    "Sound Level": "641",
+    "Illuminance": "53.66",
+    "Temperature": "24.9",
+    "Date": "15:19:00 17-10-2024",
+    "Number": 26
+  },
+  {
+    "CO2": "2609",
+    "Sound Level": "641",
+    "Illuminance": "53.66",
+    "Temperature": "24.9",
+    "Date": "15:19:05 17-10-2024",
+    "Number": 26
+  },
+  {
+    "CO2": "2609",
+    "Sound Level": "646",
+    "Illuminance": "53.66",
+    "Temperature": "24.9",
+    "Date": "15:19:10 17-10-2024",
+    "Number": 26
+  },
+  {
+    "CO2": "2609",
+    "Sound Level": "646",
+    "Illuminance": "51.84",
+    "Temperature": "24.9",
+    "Date": "15:19:15 17-10-2024",
+    "Number": 26
+  },
+  {
+    "CO2": "2610",
+    "Sound Level": "646",
+    "Illuminance": "51.84",
+    "Temperature": "24.9",
+    "Date": "15:19:20 17-10-2024",
+    "Number": 26
+  },
+  {
+    "CO2": "2610",
+    "Sound Level": "648",
+    "Illuminance": "51.84",
+    "Temperature": "24.9",
+    "Date": "15:19:25 17-10-2024",
+    "Number": 26
+  },
+  {
+    "CO2": "2610",
+    "Sound Level": "648",
+    "Illuminance": "49.02",
+    "Temperature": "24.9",
+    "Date": "15:19:30 17-10-2024",
+    "Number": 26
+  },
+  {
+    "CO2": "2610",
+    "Sound Level": "651",
+    "Illuminance": "49.02",
+    "Temperature": "24.9",
+    "Date": "15:19:35 17-10-2024",
+    "Number": 26
+  },
+  {
+    "CO2": "2610",
+    "Sound Level": "651",
+    "Illuminance": "58.6",
+    "Temperature": "24.9",
+    "Date": "15:19:40 17-10-2024",
+    "Number": 26
+  }
+]
